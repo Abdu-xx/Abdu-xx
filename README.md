@@ -26,6 +26,32 @@
 
 ---
 
+## 🎥 Featured Video
+
+<p align="center">
+  <a href="https://files.catbox.moe/cydsp1.mp4">
+    <img src="https://via.placeholder.com/800x400/0d1117/00FF00?text=🎬+Queen+Ashi+Site+-+Click+to+Watch+Video+🎬&font=lato" 
+         alt="Queen Ashi Site Video"
+         width="85%"
+         style="border-radius: 20px; border: 3px solid #00FF00; box-shadow: 0 0 25px #00FFAA;"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://files.catbox.moe/cydsp1.mp4">
+    <img src="https://img.shields.io/badge/▶️-CLICK%20TO%20WATCH%20VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" />
+  </a>
+  <a href="https://queen-ashi-main-site.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐-VISIT%20WEBSITE-FF69B4?style=for-the-badge&logo=netlify&logoColor=white&labelColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <b>✨ Check out the video above to see my work in action! ✨</b>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -83,6 +109,8 @@ A beautiful website built with:
 - JavaScript
 - Netlify Hosting
 
+**📹 Watch Demo:** [Click here](https://files.catbox.moe/cydsp1.mp4)
+
 ### 📁 First GitHub Project
 **ashi-md-mini** (Private Repository)
 - My first GitHub repository
@@ -139,9 +167,12 @@ A beautiful website built with:
 ## 🌟 Featured
 
 <p align="center">
-  <b>🌟 Check out my website:</b><br>
+  <b>🌟 Check out my website and demo video:</b><br>
   <a href="https://queen-ashi-main-site.netlify.app/">
-    <img src="https://img.shields.io/badge/✨_Visit_Queen_Ashi_Site_✨-ff69b4?style=for-the-badge&logo=netlify&logoColor=white&labelColor=black" />
+    <img src="https://img.shields.io/badge/🌐_Visit_Website-FF69B4?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="https://files.catbox.moe/cydsp1.mp4">
+    <img src="https://img.shields.io/badge/🎬_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
@@ -157,7 +188,6 @@ A beautiful website built with:
 
 ## 📊 Weekly Stats
 
-<!-- Simple table for now -->
 | Day | Hours |
 |-----|-------|
 | Monday | 2 hrs |
@@ -181,6 +211,9 @@ A beautiful website built with:
 <p align="center">
   <a href="https://queen-ashi-main-site.netlify.app/">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Website-FF69B4?style=for-the-badge" />
+  </a>
+  <a href="https://files.catbox.moe/cydsp1.mp4">
+    <img src="https://img.shields.io/badge/🎬_Watch_My_Video-FF0000?style=for-the-badge" />
   </a>
   <a href="https://github.com/abdu-xx?tab=repositories">
     <img src="https://img.shields.io/badge/📁_My_Repos-333333?style=for-the-badge" />
