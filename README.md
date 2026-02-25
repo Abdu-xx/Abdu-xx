@@ -11,7 +11,7 @@ Tech lover 🚀
   - Sri Lanka 🇱🇰  
   - xanz2009@gmail.com
   - https://queen-ashi-main-site.netlify.app/ 
-  - @xanz_crudh 
+  - @xanz_crush
 
 ### Achievements
 - 🏆 GitHub Star
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ### 📌 Pinned Projects
 
-- **project_1_name** Public  
+- **ASHI MD WHATSAPP BOT** Public  
   project_1_description  
   Built for:  
   - JavaScript  
