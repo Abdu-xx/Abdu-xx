@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ---
 
-@ඔයාගේ_username Activity graph  
+@abdu-xx Activity graph  
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdu-xx&theme=react-dark)
 
