@@ -19,12 +19,10 @@
 - 👯 **Looking to collaborate on:** Open Source Projects
 - 💬 **Ask me about:** HTML, CSS, JavaScript
 - 📫 **Email:** xanz2009@gmail.com
-- 🌐 **Website:** [guru-ashi-main-site.netlify.app](https://guru-ashi-main-site.netlify.app/)
+- 🌐 **Website:** [queen-ashi-main-site.netlify.app](https://queen-ashi-main-site.netlify.app/)
 - ⚡ **Fun fact:** I love coding and anime!
 
-<br>
-<br>
-<br>
+<br clear="right"/>
 
 ---
 
@@ -69,20 +67,27 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
 ---
 
 ## 📌 My Projects
 
-### 🎯 First Project
+### 👑 Queen Ashi Main Site
+**Live Website:** [queen-ashi-main-site.netlify.app](https://queen-ashi-main-site.netlify.app/)
+
+A beautiful website built with:
+- HTML5
+- CSS3
+- JavaScript
+- Netlify Hosting
+
+### 📁 First GitHub Project
 **ashi-md-mini** (Private Repository)
 - My first GitHub repository
 - Created in February 2025
-- Learning and exploring
-
-### 🚀 Coming Soon
-More projects will be added here!
+- Learning and exploring Git & GitHub
 
 ---
 
@@ -90,9 +95,25 @@ More projects will be added here!
 
 | What | Count |
 |------|-------|
-| Repositories | 1 |
-| Commits | 9 |
-| Joined | February 2025 |
+| 📚 Repositories | 1 |
+| 📝 Commits | 9 |
+| 📅 Joined | February 2025 |
+| 🌐 Website | Live on Netlify |
+
+---
+
+## 🎯 2025 Goals
+
+| Status | Goal |
+|--------|------|
+| ✅ | Create GitHub account |
+| ✅ | First repository |
+| ✅ | First commits |
+| ✅ | Deploy website on Netlify |
+| 🔄 | Learn React |
+| 🔄 | Build 3 projects |
+| ⏳ | Get 50 followers |
+| ⏳ | Contribute to open source |
 
 ---
 
@@ -105,8 +126,8 @@ More projects will be added here!
   <a href="mailto:xanz2009@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://guru-ashi-main-site.netlify.app/">
-    <img src="https://img.shields.io/badge/Website-ff69b4?style=for-the-badge&logo=netlify&logoColor=white" />
+  <a href="https://queen-ashi-main-site.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-queen--ashi--site-ff69b4?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="https://twitter.com/Ruchi_CRub">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -115,15 +136,14 @@ More projects will be added here!
 
 ---
 
-## 🎯 Goals for 2025
+## 🌟 Featured
 
-- [x] Create GitHub account
-- [x] First repository
-- [x] First commits
-- [ ] Learn React
-- [ ] Build 3 projects
-- [ ] Get 50 followers
-- [ ] Contribute to open source
+<p align="center">
+  <b>🌟 Check out my website:</b><br>
+  <a href="https://queen-ashi-main-site.netlify.app/">
+    <img src="https://img.shields.io/badge/✨_Visit_Queen_Ashi_Site_✨-ff69b4?style=for-the-badge&logo=netlify&logoColor=white&labelColor=black" />
+  </a>
+</p>
 
 ---
 
@@ -135,10 +155,34 @@ More projects will be added here!
 
 ---
 
+## 📊 Weekly Stats
+
+<!-- Simple table for now -->
+| Day | Hours |
+|-----|-------|
+| Monday | 2 hrs |
+| Tuesday | 3 hrs |
+| Wednesday | 2 hrs |
+| Thursday | 3 hrs |
+| Friday | 4 hrs |
+| Saturday | 5 hrs |
+| Sunday | 2 hrs |
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
 <p align="center">
   <b>⭐ Thanks for visiting my profile! ⭐</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <a href="https://queen-ashi-main-site.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Website-FF69B4?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/abdu-xx?tab=repositories">
+    <img src="https://img.shields.io/badge/📁_My_Repos-333333?style=for-the-badge" />
+  </a>
 </p>
