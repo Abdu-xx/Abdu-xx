@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=32&duration=3500&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=✧+A꯭b꯭d꯭u꯭l꯭+꯭K꯭a꯭l꯭a꯭m꯭+✧;✧+A꯭b꯭d꯭u꯭-꯭x꯭x꯭+✧;✧+C꯭o꯭d꯭e꯭r꯭+✦+D꯭e꯭v꯭e꯭l꯭o꯭p꯭e꯭r꯭+✧" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=32&duration=3500&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=A꯭b꯭d꯭u꯭l꯭+K꯭a꯭l꯭a꯭m꯭+;+A꯭b꯭d꯭u꯭-x꯭x꯭+;+C꯭o꯭d꯭e꯭r꯭+D꯭e꯭v꯭e꯭l꯭o꯭p꯭e꯭r꯭" />
 </p>
 
 ---
