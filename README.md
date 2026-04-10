@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdu-xx&color=ff69b4&style=flat-square&label=✦+Vιҽɯʂ+✦" />
-  <img src="https://img.shields.io/github/followers/abdu-xx?label=✦+Fσʅʅσɯҽɾʂ+✦&style=social" />
-  <img src="https://img.shields.io/github/stars/abdu-xx?label=✦+Sƚαɾʂ+✦&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=abdu-xx&color=ff69b4&style=flat-square&label=Views" />
+  <img src="https://img.shields.io/github/followers/abdu-xx?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/abdu-xx?label=Stars&style=social" />
 </p>
 
 ---
