@@ -16,20 +16,14 @@
 
 ## 🌸 about me
 
-```yaml
-name:        "Abdul Kalam"
-alias:       "Abdu-xx"
-role:        "Web / API Developer"
-building:    "APIs · Bots · Web Apps"
-learning:    "Node.js, React, Python"
-looking_for: "Open source projects to join"
-status:      "shipping small tools, one at a time"
-```
-
-🔧 Building **APIs · WhatsApp Bots · Web Apps**
-🌱 Currently leveling up in **React**
-📡 Open to collaborating on **open source**
-💻 Most of what I ship lives in small, focused repos
+*˙ . ꒷ 🍰 . 𖦹˙— Abdul Kalam ⋆ Abdu-xx*
+> ‧˚꒰🐾୭ ˚. ᵎᵎ
+*- 🔧 Building - APIs · WhatsApp Bots · Web Apps*
+> ‧˚꒰🐾୭ ˚. ᵎᵎ
+*- 🌱 Learning - Node.js, React, Python*
+> ‧˚꒰🐾୭ ˚. ᵎᵎ
+*- 📡 Looking for - Open source projects to join*
+> | _*💫 status : shipping small tools, one at a time 🎀!!*_
 
 ---
 
@@ -150,4 +144,3 @@ $ echo $SOCIAL
 </p>
 
 <p align="center"><b>✧ thanks for stopping by ✧</b></p>
-
