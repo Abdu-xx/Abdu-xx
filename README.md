@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=32&duration=3500&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=A꯭b꯭d꯭u꯭l꯭+K꯭a꯭l꯭a꯭m꯭+;+A꯭b꯭d꯭u꯭-x꯭x꯭+;+C꯭o꯭d꯭e꯭r꯭+D꯭e꯭v꯭e꯭l꯭o꯭p꯭e꯭r꯭" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&duration=3500&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=A꯭b꯭d꯭u꯭l꯭+K꯭a꯭l꯭a꯭m꯭+;+A꯭b꯭d꯭u꯭-x꯭x꯭+;+C꯭o꯭d꯭e꯭r꯭+D꯭e꯭v꯭e꯭l꯭o꯭p꯭e꯭r꯭" />
 </p>
 
 ---
@@ -15,6 +15,18 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
 </p>
+
+---
+
+## 🎬 Latest Upload
+
+<p align="center">
+
+https://raw.githubusercontent.com/Abdu-xx/Abdu-xx/main/assets/Pinterest%28MP4%29.mp4
+
+</p>
+
+<p align="center"><i>⤷ If the player above doesn't show, GitHub sometimes strips remote video links — drag the mp4 directly into this file's editor once, and it'll swap in an auto-hosted link that always renders.</i></p>
 
 ---
 
@@ -29,6 +41,22 @@
 | ✧ **Lᴏᴏᴋɪɴɢ Fᴏʀ** | Open Source Projects |
 | ✧ **Cᴏɴᴛᴀᴄᴛ** | [xanz2009@gmail.com](mailto:xanz2009@gmail.com) |
 | ✧ **Wᴇʙꜱɪᴛᴇ** | [abdu-xx.netlify.app](https://abdu-xx.netlify.app) |
+
+---
+
+## 📢 Aɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ
+
+> *🌴 `New Tool` Available Now.*
+> ゛ ⸝⸝.ᐟ⋆
+>
+> *🍭 Link: [add your link here]*
+>
+> *## Don't forget to follow our channel after getting tool.*
+> ゛ ⸝⸝.ᐟ⋆
+>
+> *@abduXz*
+
+<sub>⤷ reuse this block for every new drop — just swap the tool name and link.</sub>
 
 ---
 
@@ -66,7 +94,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdu-xx&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdu-xx&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=abdu-xx&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -143,6 +171,7 @@
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
 </p>
+
 ---
 
 ## 📫 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ
