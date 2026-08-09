@@ -1,0 +1,23 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install system deps
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential curl \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY main.py .
+
+# Cloud Run uses PORT env variable
+ENV PORT=8080
+EXPOSE 8080
+
+# Cache model at build time (optional — comment out to download at first run)
+# ENV MODEL_NAME=openai-community/gpt2
+# RUN python -c "from transformers import pipeline; pipeline('text-generation', model='openai-community/gpt2')"
+
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8080"]
